@@ -1,0 +1,22 @@
+.gallery img{
+    width: 100%;
+}
+#menu{
+    width:  100%;
+    height: 40px;
+    background-color:rgba(82, 9, 79, 0.445) ;
+    padding-top: 12px;
+}
+
+#menu a{
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#menu a:hover{
+    color: rgb(135, 206, 235);
+}
